@@ -1,4 +1,9 @@
 ## Hi there 👋
+We are String, a community of educators who:
+**1) Simplify** EduTech and other emerging tech/ industry developments
+**2) Scale** adopt and/or co-create EduTech products - you will find a couple here
+**3) Structure** partnerships across stakeholders in education in both public and private sector
+To build an ecosystem for educators (and wider public service) to partake in tech and innovate
 
 <!--
 
