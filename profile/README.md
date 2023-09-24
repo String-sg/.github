@@ -1,12 +1,11 @@
 ## Hi there 👋
 We are String, a community of educators/ public officers who believe in rapid prototyping/ experimentation to enable innovation:<br><br>
-**1) Simplify** EduTech and other emerging tech/ industry developments<br>
-**2) Scale** adopt and/or co-create EduTech products - you will find a couple here<br>
-**3) Structure** partnerships across stakeholders in education in both public and private sector<br>
+💬 **1) Simplify** EduTech and other emerging tech/ industry developments<br>
+💻 **2) Scale** adopt and/or co-create EduTech products - you will find a couple here on our Github page<br>
+🤝 **3) Structure** partnerships across stakeholders in education in both public and private sector<br>
 To build an ecosystem for educators (and wider public service) to partake in tech and innovate<br><br>
 
-[Our blog/ newsletter](https://teachertech.beehiiv.com/)
-
+🗞 [Blog/ newsletter](https://teachertech.beehiiv.com/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) 
 <!--
 
 **Here are some ideas to get you started:**
