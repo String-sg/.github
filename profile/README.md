@@ -1,5 +1,5 @@
 ## Hi there 👋
-We are String, a community of educators who:<br>
+We are String, a community of educators/ public officers who believe in rapid prototyping/ experimentation to enable innovation:<br><br>
 **1) Simplify** EduTech and other emerging tech/ industry developments<br>
 **2) Scale** adopt and/or co-create EduTech products - you will find a couple here<br>
 **3) Structure** partnerships across stakeholders in education in both public and private sector<br>
