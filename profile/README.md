@@ -5,7 +5,12 @@ A community of educators/ public officers who believe in rapid prototyping/ expe
 **3) 🤝 Structure** partnerships across stakeholders in education in both public and private sector<br>
 To build an ecosystem for educators (and wider public service) to partake in tech and innovate<br><br>
 
+
+
 🗞 [Blog/ newsletter](https://teachertech.beehiiv.com/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) 
+For all updates, see [go.gov.sg/stringme](https://go.gov.sg/stringme)
+<img width="838" alt="image" src="https://github.com/String-sg/.github/assets/44336310/6f8523a8-5eac-4d50-afa1-c49e519a50b7">
+
 <!--
 
 **Here are some ideas to get you started:**
