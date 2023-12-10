@@ -11,7 +11,9 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 <br>For all updates, see [go.gov.sg/stringme](https://go.gov.sg/stringme)
 <br><br>
 <img width="250" alt="image" src="https://github.com/String-sg/.github/assets/44336310/6f8523a8-5eac-4d50-afa1-c49e519a50b7">
+<br>
 
+Note: a number of repositories are PRIVATE (visibility set at the preference of creators) - ping @ghostleek if you are looking for something in particular! (: 
 <!--
 
 **Here are some ideas to get you started:**
