@@ -14,5 +14,5 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 <br>
 
 Opionated take: **Python** is the language most String repositories are in. **Streamlit community cloud** is the most common deployment env for our repos
-No python experience? Start with: https://github.com/String-sg/python-teaching-resources or https://www.kaggle.com/learn
-Proceed with: Guided notebooks like https://github.com/String-sg/uplevel_wk1_learningAnalytics (courtesy of Jackie/ Uplevel)
+No python experience? Start [here](https://github.com/String-sg/python-teaching-resources) (courtesy of Sheila) or [Kaggle Learn](https://www.kaggle.com/learn)
+Proceed with: [Guided jupyter notebooks](https://github.com/String-sg/uplevel_wk1_learningAnalytics) (courtesy of Jackie/ Uplevel)
