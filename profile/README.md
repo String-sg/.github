@@ -7,7 +7,7 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 
 
 
-📙 [Aggregator "ProductHunt"](string.sg) | 🗞 [Blog/ newsletter](https://teachertech.beehiiv.com/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) 
+📙 [Aggregator "ProductHunt"](string.beta.gov.sg) | 🗞 [Blog/ newsletter](https://teachertech.beehiiv.com/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) 
 <br>For all updates, see [go.gov.sg/stringme](https://go.gov.sg/stringme)
 <br><br>
 <img width="250" alt="image" src="https://github.com/String-sg/.github/assets/44336310/6f8523a8-5eac-4d50-afa1-c49e519a50b7">
