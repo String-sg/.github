@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/images/primary_green.png" alt="String SG Logo" width="300"/>
+  <img src="primary_green.png" alt="String SG Logo" width="300"/>
   <h1>Getting Started</h1>
 </div>
 
