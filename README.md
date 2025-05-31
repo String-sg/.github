@@ -1,5 +1,4 @@
-# 👋 Welcome to String
-
+# 👋 Welcome to
 ![String SG Logo](primary_green.png)
 
 We are a community of primarily educators who believe in **radical ownership** through rapid prototyping and experimentation to enable innovation.
