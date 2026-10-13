@@ -15,3 +15,16 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 <br>
 
 For metrics, accountability, see [String Reports](https://reports.string.sg/) 
+
+
+## Choosing whether to adopt, extend, or build
+
+- **Adopt** when a supported, institution-approved product already covers the
+  workflow.
+- **Extend** a canonical String repository when the value lies in configuration,
+  subject content, integrations, or a reusable module.
+- **Build** a new repository only when the pedagogical or operational requirement
+  is meaningfully different.
+
+All AI output requires professional judgment. Do not upload student or sensitive
+data unless the service and workflow are approved for it.
