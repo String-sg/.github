@@ -17,7 +17,7 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 For metrics, accountability, see [String Reports](https://reports.string.sg/) 
 
 
-## Choosing whether to adopt, extend, or build
+## 🤔 Choosing whether to adopt, extend, or build
 
 - **Adopt** when a supported, institution-approved product already covers the
   workflow.
