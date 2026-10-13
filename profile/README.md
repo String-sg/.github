@@ -1,3 +1,4 @@
+
 ## 👋 We are String
 A community of educators/ public officers who believe in rapid prototyping/ experimentation to enable innovation:<br><br>
 **1) 💬 Simplify** EduTech and other emerging tech/ industry developments<br>
@@ -7,8 +8,8 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 
 
 
-📙 [Aggregator "ProductHunt"](https://string.beta.gov.sg) | 🗞 [Blog/ newsletter](https://teachertech.beehiiv.com/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) 
-<br>For all updates, see [go.gov.sg/stringme](https://go.gov.sg/stringme)
+📙 [Homepage](https://string.sg) | 🗞 [Articles](https://medium.com/string/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) 
+<br>For all updates, see [t.string.sg/str-tree](https://t.string.sg/str-tree)
 <br><br>
 <img width="250" alt="image" src="https://github.com/String-sg/.github/assets/44336310/6f8523a8-5eac-4d50-afa1-c49e519a50b7">
 <br>
