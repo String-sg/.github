@@ -8,13 +8,11 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 
 
 
-📙 [Homepage](https://string.sg) | 🗞 [Articles](https://medium.com/string/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) 
+📙 [Homepage](https://string.sg) | 🗞 [Articles](https://medium.com/string/) | 👤 [Linkedin](https://sg.linkedin.com/company/string-edu) | 👨‍🏫 [TikTok](https://www.tiktok.com/@string.sg) | 📈 [Metrics](https://reports.string.sg/) 
 <br>For all updates, see [t.string.sg/str-tree](https://t.string.sg/str-tree)
 <br><br>
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6d0f786d-570b-45b7-8845-8b69b671a136" />
 <br>
-
-For metrics, accountability, see [String Reports](https://reports.string.sg/) 
 
 
 ## 🤔 Choosing whether to adopt, extend, or build
