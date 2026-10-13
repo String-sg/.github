@@ -26,3 +26,12 @@ To build an ecosystem for educators (and wider public service) to partake in tec
 
 All AI output requires professional judgment. Do not upload student or sensitive
 data unless the service and workflow are approved for it.
+
+Our repositories reflect the needs and tools available when they were developed.
+Read each project's README for its original purpose, current status, and remaining
+product opportunity; historical prototypes should be evaluated in that context.
+
+For general teacher- and staff-facing AI work, eligible Singapore public officers
+can consider [Pair](https://pair.gov.sg/). Teacher workflow platforms such as
+[MagicSchool](https://www.magicschool.ai/) are another option, subject to your
+institution's approval and data-handling requirements.
